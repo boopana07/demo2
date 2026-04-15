@@ -1,0 +1,107 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Biodata</title>
+
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f4f6f8;
+            margin: 0;
+            padding: 0;
+        }
+
+        .container {
+            width: 60%;
+            margin: 30px auto;
+            background: #ffffff;
+            padding: 20px;
+            border-radius: 10px;
+            box-shadow: 0 0 10px rgba(0,0,0,0.1);
+        }
+
+        h1 {
+            text-align: center;
+            color: #2c3e50;
+        }
+
+        .section {
+            margin-top: 20px;
+        }
+
+        .section h2 {
+            color: #34495e;
+            border-bottom: 2px solid #ddd;
+            padding-bottom: 5px;
+        }
+
+        p {
+            margin: 5px 0;
+        }
+
+        ul {
+            margin: 5px 0 0 20px;
+        }
+    </style>
+
+</head>
+<body>
+
+<div class="container">
+    <h1>BIODATA</h1>
+
+    <div class="section">
+        <h2>Personal Details</h2>
+        <p><strong>Name:</strong> Boopana</p>
+        <p><strong>Date of Birth:</strong> 07/11/2007</p>
+        <p><strong>Gender:</strong> Female</p>
+        <p><strong>Blood Group:</strong> O+</p>
+        <p><strong>Place:</strong> Chennai</p>
+    </div>
+
+    <div class="section">
+        <h2>Contact Details</h2>
+        <p><strong>Address:</strong> Chidambaram, Tamil Nadu</p>
+        <p><strong>Phone:</strong> 6369305432</p>
+        <p><strong>Email:</strong> boopana7117@gmail.com</p>
+    </div>
+
+    <div class="section">
+        <h2>Education</h2>
+        <ul>
+            <li>School - Edison G Agoram Memorial School (CBSE)</li>
+            <li>College - St. Joseph's College, Chennai</li>
+            <li>Degree - B.Tech Information Technology</li>
+        </ul>
+    </div>
+
+    <div class="section">
+        <h2>Family Details</h2>
+        <p><strong>Father's Name:</strong> Karthikeyan</p>
+        <p><strong>Mother's Name:</strong> Radha</p>
+        <p><strong>Siblings:</strong> Mahadev</p>
+    </div>
+
+    <div class="section">
+        <h2>Skills</h2>
+        <ul>
+            <li>Communication</li>
+            <li>Teamwork</li>
+            <li>Problem Solving</li>
+        </ul>
+    </div>
+
+    <div class="section">
+        <h2>Hobbies</h2>
+        <ul>
+            <li>Reading</li>
+            <li>Music</li>
+            <li>Learning Technology</li>
+        </ul>
+    </div>
+
+</div>
+
+</body>
+</html>
